@@ -1,0 +1,212 @@
+obj/local/armeabi-v7a/objs/crypto1/err/err_all.o: \
+ /Users/kule/Documents/github/openssl_android_build/crypto/err/err_all.c \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdio.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/android/api-level.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdint.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/_types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/_types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/posix_types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/stddef.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/compiler.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/posix_types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/kernel.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h \
+ include/openssl/asn1.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/time.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/time.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/time.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/siginfo.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/siginfo.h \
+ include/openssl/e_os2.h include/openssl/opensslconf.h \
+ include/openssl/bio.h include/openssl/crypto.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdlib.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/string.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/malloc.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/alloca.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/strings.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/memory.h \
+ include/openssl/stack.h include/openssl/safestack.h \
+ include/openssl/opensslv.h include/openssl/ossl_typ.h \
+ include/openssl/symhacks.h include/openssl/bn.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/limits.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/limits.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/limits.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/internal_types.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/limits.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/syslimits.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/page.h \
+ include/openssl/ec.h include/openssl/buffer.h include/openssl/comp.h \
+ include/openssl/rsa.h include/openssl/dh.h include/openssl/dsa.h \
+ include/openssl/ecdsa.h include/openssl/ecdh.h include/openssl/evp.h \
+ include/openssl/objects.h include/openssl/obj_mac.h \
+ include/openssl/pem2.h include/openssl/x509.h include/openssl/sha.h \
+ include/openssl/x509_vfy.h include/openssl/lhash.h \
+ include/openssl/pkcs7.h include/openssl/x509v3.h include/openssl/conf.h \
+ include/openssl/pkcs12.h include/openssl/rand.h include/openssl/dso.h \
+ include/openssl/ui.h include/openssl/ocsp.h include/openssl/err.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/errno.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/errno.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/errno.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/errno.h \
+ /Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/errno-base.h \
+ include/openssl/ts.h
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdio.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/android/api-level.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdint.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/_types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/_types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/_wchar_limits.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/posix_types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/stddef.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/compiler.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/posix_types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/kernel.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h:
+
+include/openssl/asn1.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/time.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/time.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/time.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/siginfo.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/siginfo.h:
+
+include/openssl/e_os2.h:
+
+include/openssl/opensslconf.h:
+
+include/openssl/bio.h:
+
+include/openssl/crypto.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdlib.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/string.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/malloc.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/alloca.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/strings.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/memory.h:
+
+include/openssl/stack.h:
+
+include/openssl/safestack.h:
+
+include/openssl/opensslv.h:
+
+include/openssl/ossl_typ.h:
+
+include/openssl/symhacks.h:
+
+include/openssl/bn.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/limits.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/limits.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/limits.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/internal_types.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/limits.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/syslimits.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/page.h:
+
+include/openssl/ec.h:
+
+include/openssl/buffer.h:
+
+include/openssl/comp.h:
+
+include/openssl/rsa.h:
+
+include/openssl/dh.h:
+
+include/openssl/dsa.h:
+
+include/openssl/ecdsa.h:
+
+include/openssl/ecdh.h:
+
+include/openssl/evp.h:
+
+include/openssl/objects.h:
+
+include/openssl/obj_mac.h:
+
+include/openssl/pem2.h:
+
+include/openssl/x509.h:
+
+include/openssl/sha.h:
+
+include/openssl/x509_vfy.h:
+
+include/openssl/lhash.h:
+
+include/openssl/pkcs7.h:
+
+include/openssl/x509v3.h:
+
+include/openssl/conf.h:
+
+include/openssl/pkcs12.h:
+
+include/openssl/rand.h:
+
+include/openssl/dso.h:
+
+include/openssl/ui.h:
+
+include/openssl/ocsp.h:
+
+include/openssl/err.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/errno.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/errno.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/errno.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/errno.h:
+
+/Users/kule/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/errno-base.h:
+
+include/openssl/ts.h:
